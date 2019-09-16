@@ -1,1 +1,0 @@
-export const index = () => import('@compopnents/index.vue')
